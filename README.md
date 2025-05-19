@@ -13,4 +13,4 @@ and below is what the final profile navigation activity looks like :---
 
 
 Above is the link for the image ^
-and i have also made a folder named as outputimage having this image in case the link was unavailable to access 
+and i have also made a folder named as "profileNavigationActivity.jpg" having this image in case the link was unavailable to access 
